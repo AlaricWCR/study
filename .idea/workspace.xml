@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Weekday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day01" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day01/seciton1_8/Allmans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day01/seciton1_8/Allmans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day02" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day03" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day03" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/Company/Javastudy/day04" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Apache maven\maven_jar" />
+        <option name="mavenHome" value="D:/Apache maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Apache maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEeC719MCOmieH62jaIMObmosD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="F:/Program Files/my-learning" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Application.Example4_1">
+    <configuration name="Example3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_10" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_7" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_8" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_9" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day04.Example4_1" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Company.Javastudy.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example4_1" />
+        <item itemvalue="Application.Example3_10" />
+        <item itemvalue="Application.Example3_9" />
+        <item itemvalue="Application.Example3_8" />
+        <item itemvalue="Application.Example3_7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Alaric\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="" />
+      <created>1601477047360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601477047360</updated>
+      <workItem from="1601477051043" duration="3089000" />
+      <workItem from="1601480999937" duration="172000" />
+      <workItem from="1601481263416" duration="7640000" />
+      <workItem from="1601536999482" duration="3401000" />
+      <workItem from="1601736550975" duration="9000" />
+      <workItem from="1601736575686" duration="132000" />
+      <workItem from="1601775024676" duration="4637000" />
+      <workItem from="1601782064749" duration="7557000" />
+      <workItem from="1601821122378" duration="300000" />
+      <workItem from="1601821442714" duration="152000" />
+      <workItem from="1601821613874" duration="324000" />
+      <workItem from="1601869752454" duration="1443000" />
+      <workItem from="1601875725001" duration="4229000" />
+      <workItem from="1601902765882" duration="567000" />
+      <workItem from="1601952899121" duration="1474000" />
+      <workItem from="1602052625945" duration="620000" />
+      <workItem from="1602079374831" duration="2514000" />
+      <workItem from="1602157377464" duration="1204000" />
+      <workItem from="1602251739061" duration="30000" />
+      <workItem from="1602253170642" duration="192000" />
+      <workItem from="1602253380440" duration="24000" />
+      <workItem from="1602253473699" duration="1738000" />
+      <workItem from="1602301422049" duration="825000" />
+      <workItem from="1602333405714" duration="3660000" />
+      <workItem from="1602377935401" duration="2693000" />
+      <workItem from="1602422321865" duration="693000" />
+      <workItem from="1602423411483" duration="156000" />
+      <workItem from="1602425046084" duration="1194000" />
+      <workItem from="1602480031640" duration="889000" />
+      <workItem from="1602512243842" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="72" width="814" height="729" key="#Intentions" timestamp="1601778128801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="72" width="814" height="729" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1601778128801" />
+    <state x="213" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601481952020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="213" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601481952020" />
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1601777853612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601777853612" />
+    <state x="514" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601782008746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601782008746" />
+    <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1602512254350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602512254350" />
+    <state width="1226" height="201" key="GridCell.Tab.0.bottom" timestamp="1602426696964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1226" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
+    <state width="1226" height="201" key="GridCell.Tab.0.center" timestamp="1602426696964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1226" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
+    <state width="1226" height="201" key="GridCell.Tab.0.left" timestamp="1602426696964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1226" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
+    <state width="1226" height="201" key="GridCell.Tab.0.right" timestamp="1602426696964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1226" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
+    <state x="631" y="110" key="RollbackChangesDialog" timestamp="1602080761472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="110" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602080761472" />
+    <state x="351" y="57" key="SettingsEditor" timestamp="1602423526411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="351" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602423526411" />
+    <state x="441" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1602423412303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="226" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602423412303" />
+    <state x="555" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601777807513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1601777807513" />
+    <state x="262" y="0" key="new project wizard" timestamp="1602423568872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602423568872" />
+    <state x="482" y="205" key="run.anything.popup" timestamp="1601791277055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="205" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601791277055" />
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602336195614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602336195614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_6.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_9.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Company/Javastudy/day03/Example3_5.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Company/Javastudy/day03/Example3_6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Company/Javastudy/day03/Example3_7.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
