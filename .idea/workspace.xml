@@ -4,13 +4,27 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Weekday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day01" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day01/seciton1_8/Allmans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day01/seciton1_8/Allmans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day02" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day02/Example2_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Company/Javastudy/day03" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Company/Javastudy/day03" afterDir="false" />
+    <list default="true" id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="study">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Dec_17Study/Demo01Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Dec_17Study/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Dec_17Study/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Dec_20/Unicode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/Jan_4/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_12/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_13/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_14/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_14/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_14/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_14/Demo04MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_14/Demo05MethodOverloadSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_15/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_15/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_16/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/March_16/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +33,20 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,7 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com/Company/Javastudy/day04" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -46,7 +74,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1iEeC719MCOmieH62jaIMObmosD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,19 +84,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="F:/Program Files/my-learning" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Example4_1">
-    <configuration name="Example3_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_10" />
+  <component name="RunManager" selected="Application.Demo02 (1)">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.March_16.Demo01" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="PATTERN" value="com.Company.March_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_7" />
+    <configuration name="Demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.March_16.Demo02" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="PATTERN" value="com.Company.March_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_8" />
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.March_14.Demo03" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="PATTERN" value="com.Company.March_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day03.Example3_9" />
+    <configuration name="Demo04MethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.March_14.Demo04MethodOverload" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.Javastudy.day03.*" />
+          <option name="PATTERN" value="com.Company.March_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.Javastudy.day04.Example4_1" />
+    <configuration name="Demo05MethodOverloadSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.March_14.Demo05MethodOverloadSame" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.Javastudy.day04.*" />
+          <option name="PATTERN" value="com.Company.March_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example4_1" />
-        <item itemvalue="Application.Example3_10" />
-        <item itemvalue="Application.Example3_9" />
-        <item itemvalue="Application.Example3_8" />
-        <item itemvalue="Application.Example3_7" />
+        <item itemvalue="Application.Demo02 (1)" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Demo05MethodOverloadSame" />
+        <item itemvalue="Application.Demo04MethodOverload" />
+        <item itemvalue="Application.Demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +210,42 @@
       <workItem from="1602425046084" duration="1194000" />
       <workItem from="1602480031640" duration="889000" />
       <workItem from="1602512243842" duration="13000" />
+      <workItem from="1603690189043" duration="25000" />
+      <workItem from="1603690923319" duration="14000" />
+      <workItem from="1603690969454" duration="82000" />
+      <workItem from="1603691274858" duration="82000" />
+      <workItem from="1603691402623" duration="8000" />
+      <workItem from="1603691844361" duration="24000" />
+      <workItem from="1604190902775" duration="3221000" />
+      <workItem from="1604194619544" duration="2261000" />
+      <workItem from="1604238064079" duration="888000" />
+      <workItem from="1604760198676" duration="26000" />
+      <workItem from="1605166188740" duration="1734000" />
+      <workItem from="1605326549586" duration="1388000" />
+      <workItem from="1605503905842" duration="5000" />
+      <workItem from="1606109033669" duration="17000" />
+      <workItem from="1606713645632" duration="10000" />
+      <workItem from="1607834180689" duration="1445000" />
+      <workItem from="1607845515926" duration="189000" />
+      <workItem from="1607845728197" duration="7423000" />
+      <workItem from="1607923563453" duration="34000" />
+      <workItem from="1608208291381" duration="4250000" />
+      <workItem from="1608446807211" duration="4235000" />
+      <workItem from="1608621912805" duration="1475000" />
+      <workItem from="1609118116121" duration="680000" />
+      <workItem from="1609207175142" duration="29000" />
+      <workItem from="1609721510259" duration="2044000" />
+      <workItem from="1609805716958" duration="104000" />
+      <workItem from="1613362394859" duration="1805000" />
+      <workItem from="1615535339205" duration="24000" />
+      <workItem from="1615535394771" duration="2036000" />
+      <workItem from="1615626370294" duration="2033000" />
+      <workItem from="1615628558871" duration="302000" />
+      <workItem from="1615628883653" duration="695000" />
+      <workItem from="1615694848930" duration="1206000" />
+      <workItem from="1615703918977" duration="7214000" />
+      <workItem from="1615806684079" duration="3501000" />
+      <workItem from="1615899103803" duration="2128000" />
     </task>
     <servers />
   </component>
@@ -186,70 +253,75 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="72" width="814" height="729" key="#Intentions" timestamp="1601778128801">
+    <state x="442" y="73" key="#Custom_Plugin_Repositories" timestamp="1607845440867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="376" y="72" width="814" height="729" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1601778128801" />
-    <state x="213" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601481952020">
+    <state x="442" y="73" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1607845440867" />
+    <state x="442" y="73" key="#HTTP_Proxy" timestamp="1607845192779">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="213" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601481952020" />
-    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1601777853612">
+    <state x="442" y="73" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1607845192779" />
+    <state x="361" y="71" key="#Notifications" timestamp="1615536880870">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601777853612" />
-    <state x="514" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601782008746">
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1615536880870" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615628852701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="514" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601782008746" />
-    <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1602512254350">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615628852701" />
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1608211226609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="612" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602512254350" />
-    <state width="1226" height="201" key="GridCell.Tab.0.bottom" timestamp="1602426696964">
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608211226609" />
+    <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1609805816554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
-    <state width="1226" height="201" key="GridCell.Tab.0.center" timestamp="1602426696964">
+    <state x="612" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609805816554" />
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom" timestamp="1615905300229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
-    <state width="1226" height="201" key="GridCell.Tab.0.left" timestamp="1602426696964">
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615905300229" />
+    <state width="1492" height="243" key="GridCell.Tab.0.center" timestamp="1615905300229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
-    <state width="1226" height="201" key="GridCell.Tab.0.right" timestamp="1602426696964">
+    <state width="1492" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615905300229" />
+    <state width="1492" height="243" key="GridCell.Tab.0.left" timestamp="1615905300229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1226" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602426696964" />
-    <state x="631" y="110" key="RollbackChangesDialog" timestamp="1602080761472">
+    <state width="1492" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615905300229" />
+    <state width="1492" height="243" key="GridCell.Tab.0.right" timestamp="1615905300229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="631" y="110" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602080761472" />
-    <state x="351" y="57" key="SettingsEditor" timestamp="1602423526411">
+    <state width="1492" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615905300229" />
+    <state width="1492" height="252" key="GridCell.Tab.1.bottom" timestamp="1615903742908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="351" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602423526411" />
-    <state x="441" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1602423412303">
+    <state width="1492" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615903742908" />
+    <state width="1492" height="252" key="GridCell.Tab.1.center" timestamp="1615903742908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="441" y="226" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602423412303" />
-    <state x="555" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601777807513">
+    <state width="1492" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615903742908" />
+    <state width="1492" height="252" key="GridCell.Tab.1.left" timestamp="1615903742907">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1601777807513" />
-    <state x="262" y="0" key="new project wizard" timestamp="1602423568872">
+    <state width="1492" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615903742907" />
+    <state width="1492" height="252" key="GridCell.Tab.1.right" timestamp="1615903742908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="262" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602423568872" />
-    <state x="482" y="205" key="run.anything.popup" timestamp="1601791277055">
+    <state width="1492" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615903742908" />
+    <state x="438" y="65" key="SettingsEditor" timestamp="1613362433474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="482" y="205" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601791277055" />
-    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602336195614">
+    <state x="438" y="65" key="SettingsEditor/0.0.1536.824/1920.75.1920.1040@0.0.1536.824" timestamp="1613362433474" />
+    <state x="530" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608208578398" />
+    <state x="441" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1607923575400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602336195614" />
+    <state x="441" y="226" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1607923575400" />
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615628616815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615628616815" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -281,5 +353,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study$Demo01.ic" NAME="Demo01 Coverage Results" MODIFIED="1615628911736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Company.Jan_4.*</FILTER>
+    </SUITE>
   </component>
 </project>
