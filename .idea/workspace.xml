@@ -5,31 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_17/Demo02Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_17/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_18/Demo01PhoneOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_18/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_19/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_19/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Demo01Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Demo02Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Demo03Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_22/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_23/Demo01Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_23/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo01Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo02ScannerSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo03ScannerMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo04Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo05Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo06Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo07Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo08Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo09RandomGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Demo10RandomGame02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Company/March_29/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RootConfigurable" />
   </component>
   <component name="RunManager" selected="Application.Demo10RandomGame02">
     <configuration name="Demo06Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -262,7 +237,13 @@
       <workItem from="1616497912993" duration="1100000" />
       <workItem from="1616502723061" duration="2044000" />
       <workItem from="1616919983579" duration="1548000" />
-      <workItem from="1617000663126" duration="8603000" />
+      <workItem from="1617000663126" duration="9504000" />
+      <workItem from="1617175121074" duration="366000" />
+      <workItem from="1617178841035" duration="1532000" />
+      <workItem from="1617183217012" duration="626000" />
+      <workItem from="1617270716068" duration="1447000" />
+      <workItem from="1617774812332" duration="453000" />
+      <workItem from="1617956872115" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="study2021-3-16">
       <created>1615905354211</created>
@@ -278,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615906066151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="study2021-3-29">
+      <created>1617011047432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617011047433</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +274,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study2021-3-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="study2021-3-16" />
+    <MESSAGE value="study2021-3-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="study2021-3-29" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1615536880870">
@@ -301,30 +290,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1616503867545" />
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1615906064488">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1617011041248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1615906064488" />
-    <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1609805816554">
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617011041248" />
+    <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1617011292406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="612" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609805816554" />
-    <state width="1492" height="243" key="GridCell.Tab.0.bottom" timestamp="1617010895010">
+    <state x="612" y="149" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617011292406" />
+    <state x="632" y="303" key="Github.ShareDialog" timestamp="1617011250048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617010895010" />
-    <state width="1492" height="243" key="GridCell.Tab.0.center" timestamp="1617010895010">
+    <state x="632" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1617011250047" />
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom" timestamp="1617013349197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617010895010" />
-    <state width="1492" height="243" key="GridCell.Tab.0.left" timestamp="1617010895010">
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
+    <state width="1492" height="243" key="GridCell.Tab.0.center" timestamp="1617013349197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617010895010" />
-    <state width="1492" height="243" key="GridCell.Tab.0.right" timestamp="1617010895010">
+    <state width="1492" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
+    <state width="1492" height="243" key="GridCell.Tab.0.left" timestamp="1617013349197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617010895010" />
+    <state width="1492" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
+    <state width="1492" height="243" key="GridCell.Tab.0.right" timestamp="1617013349197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
     <state width="1492" height="252" key="GridCell.Tab.1.bottom" timestamp="1616401772213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -341,14 +334,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1492" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616401772213" />
-    <state x="438" y="65" key="SettingsEditor" timestamp="1613362433474">
+    <state x="319" y="55" key="SettingsEditor" timestamp="1617011227063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="438" y="65" key="SettingsEditor/0.0.1536.824/1920.75.1920.1040@0.0.1536.824" timestamp="1613362433474" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1615971191015">
+    <state x="319" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617011227063" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617011053354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1615971191015" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617011053354" />
     <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617002565013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
