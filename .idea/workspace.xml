@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="250e8036-91ab-4b91-9c9b-01bad1474dd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_10/Demo01ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Demo01ArrayListMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Demo02ArrayListEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Demo03ArrayListRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Demo04ArrayListStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Demo05ArrayListPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Company/April_12/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +79,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RootConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Demo10RandomGame02">
-    <configuration name="Demo06Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.March_29.Demo06Random" />
+  <component name="RunManager" selected="Application.Demo04ArrayListStudent">
+    <configuration name="Demo01ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.April_10.Demo01ArrayList" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.March_29.*" />
+          <option name="PATTERN" value="com.Company.April_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.March_29.Demo07Random" />
+    <configuration name="Demo01ArrayListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.April_12.Demo01ArrayListMethod" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.March_29.*" />
+          <option name="PATTERN" value="com.Company.April_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo08Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.March_29.Demo08Random" />
+    <configuration name="Demo02ArrayListEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.April_12.Demo02ArrayListEach" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.March_29.*" />
+          <option name="PATTERN" value="com.Company.April_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo09RandomGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.March_29.Demo09RandomGame" />
+    <configuration name="Demo03ArrayListRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.April_12.Demo03ArrayListRandom" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.March_29.*" />
+          <option name="PATTERN" value="com.Company.April_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo10RandomGame02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Company.March_29.Demo10RandomGame02" />
+    <configuration name="Demo04ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Company.April_12.Demo04ArrayListStudent" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Company.March_29.*" />
+          <option name="PATTERN" value="com.Company.April_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo10RandomGame02" />
-        <item itemvalue="Application.Demo09RandomGame" />
-        <item itemvalue="Application.Demo08Random" />
-        <item itemvalue="Application.Demo07Random" />
-        <item itemvalue="Application.Demo06Random" />
+        <item itemvalue="Application.Demo04ArrayListStudent" />
+        <item itemvalue="Application.Demo03ArrayListRandom" />
+        <item itemvalue="Application.Demo02ArrayListEach" />
+        <item itemvalue="Application.Demo01ArrayListMethod" />
+        <item itemvalue="Application.Demo01ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +250,11 @@
       <workItem from="1617183217012" duration="626000" />
       <workItem from="1617270716068" duration="1447000" />
       <workItem from="1617774812332" duration="453000" />
-      <workItem from="1617956872115" duration="196000" />
+      <workItem from="1617956872115" duration="3452000" />
+      <workItem from="1618019201509" duration="1223000" />
+      <workItem from="1618043306012" duration="3421000" />
+      <workItem from="1618206473356" duration="3589000" />
+      <workItem from="1618225588692" duration="4313000" />
     </task>
     <task id="LOCAL-00001" summary="study2021-3-16">
       <created>1615905354211</created>
@@ -266,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617011047433</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="study2021-4-9">
+      <created>1617957094995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617957094995</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +293,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="study2021-3-16" />
     <MESSAGE value="study2021-3-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="study2021-3-29" />
+    <MESSAGE value="study2021-4-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="study2021-4-9" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1615536880870">
@@ -286,14 +305,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615628852701" />
-    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1616503867545">
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1618228963822">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1616503867545" />
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1617011041248">
+    <state x="589" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1618228963822" />
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1617957093130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617011041248" />
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617957093130" />
     <state x="612" y="149" key="FileChooserDialogImpl" timestamp="1617011292406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,22 +321,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="632" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1617011250047" />
-    <state width="1492" height="243" key="GridCell.Tab.0.bottom" timestamp="1617013349197">
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom" timestamp="1618229799567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
-    <state width="1492" height="243" key="GridCell.Tab.0.center" timestamp="1617013349197">
+    <state width="1492" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618229799567" />
+    <state width="1492" height="243" key="GridCell.Tab.0.center" timestamp="1618229799567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
-    <state width="1492" height="243" key="GridCell.Tab.0.left" timestamp="1617013349197">
+    <state width="1492" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618229799567" />
+    <state width="1492" height="243" key="GridCell.Tab.0.left" timestamp="1618229799567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
-    <state width="1492" height="243" key="GridCell.Tab.0.right" timestamp="1617013349197">
+    <state width="1492" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618229799567" />
+    <state width="1492" height="243" key="GridCell.Tab.0.right" timestamp="1618229799567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617013349197" />
+    <state width="1492" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618229799567" />
     <state width="1492" height="252" key="GridCell.Tab.1.bottom" timestamp="1616401772213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -339,14 +358,14 @@
     </state>
     <state x="438" y="65" key="SettingsEditor/0.0.1536.824/1920.75.1920.1040@0.0.1536.824" timestamp="1613362433474" />
     <state x="319" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617011227063" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617011053354">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617957102627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617011053354" />
-    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1617002565013">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617957102627" />
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618212696305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617002565013" />
+    <state x="446" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618212696305" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
